@@ -3,11 +3,12 @@
 코딩 테스트를 대비하기 위해 알고리즘 공부로 사용한 코드들을 저장하는 곳
 
 ## Python
-[코드업 파이썬 기초 100문제](https://codeup.kr/problemsetsol.php?psid=33)
-###### 7월 13일부터 최대한 빠른 시간내에 100문제 풀기🔥
 
 <details>
 <summary>1. 코드업 파이썬 기초 100문제(2021.07.13 ~ 2021.07.24, 완료)</summary>
+ [코드업 파이썬 기초 100문제](https://codeup.kr/problemsetsol.php?psid=33)  
+ 
+> 7월 13일부터 최대한 빠른 시간내에 100문제 풀기🔥
 <div markdown="1">
  
   | 번호명 | 문제명 | 문제 풀이일 |
@@ -114,8 +115,14 @@
  </details>
 
 <details>
-<summary>2. 프로그래머스 (2021.07.26 ~ (시작 예정))</summary>
+<summary>2. 백준 알고리즘 (2021.08.02 ~ ing)</summary>
+ 
+ > 하루에 최소 하나는 풀도록 노력하기!👍
 <div markdown="1">
-  
+   
+  | 분류 | 번호명 | 문제명 | 문제 풀이일 |
+  |:----------|:----------|:----------|:----------:|
+  | 수학 | 1546 | [평균(Bronze)](https://www.acmicpc.net/problem/1546) | 2021.08.02 |
+  | 그리디 | 11047 | [동전 0(Silver)](https://www.acmicpc.net/problem/11047) | 2021.08.02 |
 </div>
 </details>
