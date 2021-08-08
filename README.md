@@ -122,7 +122,12 @@
    
   | 분류 | 번호명 | 문제명 | 문제 풀이일 |
   |:----------|:----------|:----------|:----------:|
-  | 수학 | 1546 | [평균(Bronze)](https://www.acmicpc.net/problem/1546) | 2021.08.02 |
-  | 그리디 | 11047 | [동전 0(Silver)](https://www.acmicpc.net/problem/11047) | 2021.08.02 |
+  | 수학 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | 2021.08.02 |
+  | 그리디 | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | 2021.08.02 |
+  | 트리 | 1068 | [트리](https://www.acmicpc.net/problem/1068) | 2021.08.08 |
+  | 구현 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | 2021.08.08 |
+  | 재귀 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | 2021.08.08 |
+  | 재귀 | 10876 | [피보나치수 5](https://www.acmicpc.net/problem/10875) | 2021.08.08 |
+  | 정렬 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 2021.08.08 |
 </div>
 </details>
