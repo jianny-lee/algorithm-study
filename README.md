@@ -128,6 +128,9 @@
   | 구현 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | 2021.08.08 |
   | 재귀 | 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | 2021.08.08 |
   | 재귀 | 10876 | [피보나치수 5](https://www.acmicpc.net/problem/10875) | 2021.08.08 |
-  | 정렬 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 2021.08.08 |
+  | 정렬 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | 2021.08.08 |  
+  | 정렬 | 2750 | [수 정렬하기2](https://www.acmicpc.net/problem/2751) | 2021.08.10 |  
+  | DP | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 2021.08.11 |  
+  | DP | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | 2021.08.12 |  
 </div>
 </details>
